@@ -1,0 +1,37 @@
+# NAME: Emby & Niceduck
+# AUTHOR: YourName
+# REPO: N/A
+# UPDATED: 2024-10-16
+# DOMAIN: 11
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 10
+# IP-CIDR: 3
+# USER-AGENT: 3
+# TOTAL: 28
+
+# Emby相关域名
+DOMAIN-SUFFIX,emby.media
+DOMAIN-SUFFIX,embyapp.com
+DOMAIN-SUFFIX,emby.systems
+DOMAIN-SUFFIX,embyserver.net
+DOMAIN-SUFFIX,connect.emby.media
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
+
+# Niceduck相关域名
+DOMAIN-SUFFIX,e.niceduck.me
+DOMAIN-SUFFIX,dpxcdn.niceduck.lol
+DOMAIN-SUFFIX,cf.niceduck.lol
+
+# Emby 关键字域名
+DOMAIN-KEYWORD,emby
+
+# Emby客户端User-Agent标识
+USER-AGENT,EmbyTheater*
+USER-AGENT,EmbyMobile*
+USER-AGENT,EmbyServer*
+
+# Emby服务相关IP范围
+IP-CIDR,23.111.0.0/16,no-resolve
+IP-CIDR,172.64.0.0/13,no-resolve
+IP-CIDR,198.51.100.0/24,no-resolve
